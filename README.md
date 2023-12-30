@@ -1,3 +1,3 @@
 # BusinessCard
 A basic Kotlin project.
-![appScreenshot](https://ibb.co/7JyZ7x4)
+![appScreenshot](https://drive.google.com/file/d/1wtPSZhBevkJEAHIZn34YUbTsH5Fpn6NH/view?usp=share_link)
